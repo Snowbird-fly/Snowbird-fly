@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-<h2>Hi there, I'm Nadezhda aka Snowbird-fly 👋</h2>
+<h2>Hi there, I'm Nadezhda👋</h2>
 <h3>I'm a Data Analyst from Moscow, but now I'm living in Armenia</h3>
 </div>
 
